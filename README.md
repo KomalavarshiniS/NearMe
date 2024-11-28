@@ -100,13 +100,12 @@ Tajpura.html
 
 ## OUTPUT
 
-![alt text](varshini/6.png)
-![alt text](varshini/1.png)
-![alt text](varshini/2.png)
-![alt text](varshini/3.png)
-![alt text](varshini/4.png)
-![alt text](varshini/5.png)
-
+![alt text](6.png)
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
+![alt text](5.png)
 
 
 ## RESULT
