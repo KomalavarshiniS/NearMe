@@ -96,18 +96,18 @@ Tajpura.html
             Tajpura is a small Village/hamlet in Arcot Block in Vellore District of Tamil Nadu State, India. It comes under Tajpura Panchayath. It is located 23 KM towards East from District head quarters Vellore. 4 KM from Arcot. 121 KM from State capital Chennai
         </p>
     </body>
-</html>   
+</html> 
+```  
 
-## OUTPUT
+## OUTPUT:
 
 ![alt text](6.png)
 ![alt text](1.png)
 ![alt text](2.png)
 ![alt text](3.png)
 ![alt text](4.png)
-1.png
 ![alt text](5.png)
 
 
-## RESULT
+## RESULT:
 The program for implementing image maps using HTML is executed successfully.
